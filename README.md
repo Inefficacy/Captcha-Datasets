@@ -1,7 +1,7 @@
 # Captcha data set
 
 ### Data sets so far
-- hCaptcha (1384 files)
+- hCaptcha (2082 files)
 
 ### File structure
 ```
