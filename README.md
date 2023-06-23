@@ -1,7 +1,7 @@
 # Captcha data set
 
 ### Data sets so far
-- hCaptcha (3079 files)
+- hCaptcha (3795 files)
 
 #### hCaptcha dataset currently only has binary image labelling
 
