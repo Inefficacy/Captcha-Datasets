@@ -1,7 +1,7 @@
 # Captcha data set
 
 ### Data sets so far
-- hCaptcha (3795 files)
+- hCaptcha (5295 files)
 
 #### hCaptcha dataset currently only has binary image labelling
 
@@ -18,3 +18,5 @@ datasets
 ### ToDo
 - [ ] organize all 'negative' categories (feel free to submit a PR if you feel like doing this)
 - [ ] add reCAPTCHA
+- [ ] add hCaptcha multiple choice
+- [ ] add hCaptcha accessibility text questions (a11y captchas)
