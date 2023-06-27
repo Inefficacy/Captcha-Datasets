@@ -4,22 +4,28 @@
 - hCaptcha binary (6098 files)
 - hCaptcha multiple (54 files)
 - hCaptcha text (880 answers)
+- generic text captcha (10000 files)
 
 ### File structure
 ```
 datasets
-└── hcaptcha
-    ├── binary
-    │   ├── category
-    │   │   └── (md5 hash).png
-    │   └── cateogry-negative
-    │       └── (md5 hash).png
-    ├── multiple
-    │   └── category
-    │       └── (md5 hash).png
-    └── text
-        ├── yes.txt
-        └── no.txt
+├── hcaptcha
+│   ├── binary
+│   │   ├── category
+│   │   │   └── (md5 hash).png
+│   │   └── cateogry-negative
+│   │       └── (md5 hash).png
+│   ├── multiple
+│   │   └── category
+│   │       └── (md5 hash).png
+│   └── text
+│       ├── yes.txt
+│       └── no.txt
+└── generic
+    ├── upper
+    │   └── (text)-(number).png
+    └── lower
+        └── (text)-(number).png
 ```
 
 ### ToDo
@@ -27,4 +33,4 @@ datasets
 - [ ] add reCAPTCHA
 - [x] add hCaptcha multiple choice
 - [x] add hCaptcha accessibility text questions (a11y captchas)
-- [ ] add text-based (image) captchas
+- [x] add text-based (image) captchas
