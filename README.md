@@ -1,9 +1,9 @@
 # Captcha data set
 
 ### Data sets so far
-- hCaptcha binary (7544 files)
-- hCaptcha multiple (46 files)
-- hCaptcha text (979 answers)
+- hCaptcha binary (8210 files)
+- hCaptcha multiple (95 files)
+- hCaptcha text (1026 answers)
 - generic text captcha (20000 files)
 
 ### File structure
