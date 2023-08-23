@@ -1,7 +1,7 @@
 # Captcha data set
 
 ### Data sets so far
-- hCaptcha binary (44753 files)
+- hCaptcha binary (0 files)
 - hCaptcha multiple (568 files)
 - hCaptcha text (1519 answers)
 - generic text captcha (20000 files)
@@ -11,10 +11,11 @@
 datasets
 ├── hcaptcha
 │   ├── binary
-│   │   ├── category
-│   │   │   └── (md5 hash).png
-│   │   └── cateogry-negative
-│   │       └── (md5 hash).png
+│   │   └── category
+│   │       ├── true
+│   │       │   └── (md5 hash).png
+│   │       └── false
+│   │           └── (md5 hash).png
 │   ├── multiple
 │   │   └── category
 │   │       └── (md5 hash).png
