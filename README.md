@@ -1,11 +1,7 @@
 # Captcha data set
 
 ### Data sets so far
-<<<<<<< Updated upstream
-- hCaptcha binary (52940 files)
-=======
-- hCaptcha binary (52752 files)
->>>>>>> Stashed changes
+- hCaptcha binary (52987 files)
 - hCaptcha multiple (568 files)
 - hCaptcha text (1519 answers)
 - generic text captcha (20000 files)
