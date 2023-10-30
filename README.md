@@ -29,9 +29,4 @@ datasets
         └── (text)-(number).png
 ```
 
-### ToDo
-- [ ] organize all 'negative' categories (feel free to submit a PR if you feel like doing this)
-- [ ] add reCAPTCHA
-- [x] add hCaptcha multiple choice
-- [x] add hCaptcha accessibility text questions (a11y captchas)
-- [x] add text-based (image) captchas
+### this repo will likely never be updated again
